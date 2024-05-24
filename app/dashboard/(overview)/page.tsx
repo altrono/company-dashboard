@@ -23,7 +23,6 @@ const Page = async () => {
           <LatestInvoices  />
         </Suspense>
         
-        
       </div>
     </main>
   )
